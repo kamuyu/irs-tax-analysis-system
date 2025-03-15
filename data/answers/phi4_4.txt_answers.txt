@@ -1,0 +1,72 @@
+Q1: Advanced Scenario 4: Test Questions
+9. For the purpose of determining dependency, Cary could be the qualifying child of _______________.
+a. Only Cheryl
+b. Only Cindy
+c. Either Cheryl or Cindy
+d. Neither Cheryl nor Cindy
+
+A1: To determine who can claim Cary as a qualifying child for tax purposes, we need to consider the IRS rules regarding dependency exemptions and qualifying children.
+
+For someone to be considered a qualifying child:
+1. The child must have lived with the taxpayer for more than half of the year.
+2. The child must be under age 19 at the end of the year (or under 24 if a full-time student, or any age if permanently and totally disabled).
+3. The child must not provide more than half of their own support during the year.
+4. The taxpayer must have provided over half of the child’s total support for the year.
+
+Let's analyze the scenario:
+
+- **Cindy**: 
+  - Cary lived with Cindy all year (since April 2023, fulfilling more than half the year requirement).
+  - Cary is under age 19 and did not provide more than half of her own support.
+  - Cindy provided over half of her own support but she could still claim Cary as long as she provided more than half of Cary's support.
+
+- **Cheryl**: 
+  - Cheryl also had Cary living with her for the entire year, fulfilling the residency requirement.
+  - Cheryl can potentially provide more than half of Cary’s total support because she owns and maintains the home where they live. 
+
+Given these conditions, both Cindy and Cheryl meet the criteria to claim Cary as a qualifying child, provided that whoever claims Cary provides over half of her support for the year.
+
+Therefore, the correct answer is:
+
+c. Either Cheryl or Cindy
+
+---
+
+Q2: 10. Which of the following statements is true?
+a. Cindy is not eligible to claim Cary for the EIC because her filing status is married filing separate.
+b. Cindy is not eligible to claim the EIC for Cary because she is under age 25.
+c. Cindy is not eligible to claim Cary for the EIC because her income is too high.
+d. None of the above statements is true.
+
+A2: To determine which statement is true regarding Cindy's eligibility to claim the Earned Income Credit (EIC) for her daughter Cary, we need to consider the IRS requirements for claiming a qualifying child under the EIC guidelines:
+
+1. **Age Requirements**: The child must be under age 19 at the end of the year, or under age 24 if they are a full-time student for at least five months of the year, or any age if permanently and totally disabled.
+
+2. **Relationship Test**: The child must be Cindy's son or daughter (including adopted), stepchild, foster child, sibling, half-sibling, step-sibling, or a descendant of any of them.
+
+3. **Residency Test**: The child must have lived with the taxpayer in the United States for more than half of the year.
+
+4. **Support Test**: Cindy provided over half of Cary's support during the year.
+
+5. **Joint Return Test**: The child cannot file a joint return for the year (unless it is only to claim a refund).
+
+6. **Dependent Status**: The child must be claimed as a dependent on Cindy's tax return.
+
+7. **Income Limitations**: For 2024, there are income thresholds that determine eligibility for EIC based on filing status and number of qualifying children. For one qualifying child, the maximum adjusted gross income (AGI) is $47,915 if married filing jointly or $48,295 if single.
+
+Now, let's evaluate each statement:
+
+a. **Cindy is not eligible to claim Cary for the EIC because her filing status is married filing separate.**
+   - Cindy will not file a joint return with her spouse, so she can potentially file as "Head of Household" or "Single," assuming she meets the criteria for these statuses.
+
+b. **Cindy is not eligible to claim the EIC for Cary because she is under age 25.**
+   - The age requirement for the EIC states that a taxpayer must be at least 25 but under 65 years old if they are filing as Head of Household or Single and do not have a qualifying child. However, since Cindy has a qualifying child (Cary), the age limit does not apply.
+
+c. **Cindy is not eligible to claim Cary for the EIC because her income is too high.**
+   - For 2024, with one qualifying child, the maximum AGI for a single filer is $48,295. Cindy's income is $24,000, which is below this threshold.
+
+d. **None of the above statements is true.**
+
+Given these considerations, none of the statements a, b, or c accurately describes why Cindy would be ineligible to claim Cary for the EIC. Therefore, the correct answer is:
+
+**d. None of the above statements is true.**

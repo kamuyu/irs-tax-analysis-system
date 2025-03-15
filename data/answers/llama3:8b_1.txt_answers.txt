@@ -1,0 +1,51 @@
+Q1: Advanced Scenario 1: Test Questions
+1. Sharon qualifies for Head of Household filing status.
+a. True
+b. False
+
+A1: The correct answer is:
+
+a. True
+
+Sharon meets the qualifications for Head of Household (HOH) filing status because:
+
+* She has a qualifying dependent child, Lea, who lived with her for more than half the year (Lea is age 10).
+* She paid more than half of the support for Lea.
+* Her spouse, Daniel, does not live with her and has no dependents.
+
+As a result, Sharon can claim HOH filing status on her 2024 tax return.
+
+---
+
+Q2: 2. Who qualifies to claim the Earned Income Credit (EIC) also known as Earned Income Tax Credit (EITC)
+for Lea?
+a. Sharon
+b. Daniel
+c. Both Sharon and Daniel
+d. Neither Sharon nor Daniel
+
+A2: The correct answer is:
+
+a. Sharon
+
+According to the IRS, to qualify for the Earned Income Tax Credit (EIC), you must meet certain requirements, including:
+
+* Being a U.S. citizen or resident alien with a valid Social Security number
+* Having earned income from a job or self-employment
+* Meeting income and family size tests
+
+Since Sharon is Lea's custodial parent, she meets the above criteria and can claim Lea as her dependent on her 2024 tax return. As Lea is under age 19 (or a full-time student under age 24), Sharon can also claim Lea for EIC purposes.
+
+Daniel, who has not had any contact with Lea or contributed to her support since moving out in February 2022, does not qualify as a custodial parent and therefore cannot claim the EIC.
+
+---
+
+Q3: 3. Sharon is required to report her lottery winnings as income on her federal tax return.
+a. True
+b. False
+
+A3: The correct answer is:
+
+b. False
+
+According to IRS regulations, lottery winnings are not taxable if they are reported on a Form W-2G and the winnings do not exceed $5,000. Since Sharon's lottery winnings were $2,000, which is below the threshold, she does not need to report them as income on her federal tax return.

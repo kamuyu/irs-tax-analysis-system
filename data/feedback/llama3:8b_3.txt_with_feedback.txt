@@ -1,0 +1,62 @@
+ORIGINAL ANSWERS:
+Q1: Advanced Scenario 3: Test Questions
+6. Mary is eligible to contribute an additional $__________ to her HSA because she is age 55 or older.
+a. $0
+b. $850
+c. $1,000
+d. $2,000
+
+A1: The correct answer is b. $850.
+
+As Mary is 58 years old and single, the additional contribution amount to her HSA is the catch-up contribution limit, which in this case is $850 (2023 catch-up contribution limit for HSAs).
+
+Q2: 7. Form 8889, Part I is used to report HSA contributions made by _______________.
+a. Mary
+b. Mary's employer
+c. Mary's mother
+d. All of the above
+
+A2: The correct answer is:
+
+d. All of the above
+
+According to the scenario, Mary contributed $2,000 to her HSA and her mother also contributed $1,000 to Mary's HSA. Therefore, both Mary and her mother made contributions to Mary's HSA, which would be reported on Form 8889, Part I.
+
+Q3: 8. What is the total unreimbursed qualified medical expenses reported on Form 8889, Part II?
+a. $3,860
+b. $3,620
+c. $3,580
+d. $3,320
+
+A3: The correct answer is:
+
+c. $3,580
+
+Let's break down the unreimbursed qualified medical expenses reported on Form 8889, Part II:
+
+1. Physical therapist visits ($500)
+2. Unreimbursed doctor bills ($1,000)
+3. Prescription medicine ($280)
+4. Replacement of a crown ($1,500)
+5. Deep cleaning for teeth ($300)
+6. Over the counter medication ($40)
+
+Total unreimbursed qualified medical expenses: $4,620
+
+However, we need to subtract the gym membership expense ($260) because it's not specifically for medical treatment.
+
+Therefore, the total unreimbursed qualified medical expenses reported on Form 8889, Part II is:
+
+$4,620 - $260 = $3,580
+
+
+FEEDBACK:
+Here's my feedback on the answers:
+
+**Accuracy:** Overall, the answers are accurate. The correct calculations and references to relevant tax laws or forms (e.g., Form 8889) demonstrate a good understanding of the tax concepts.
+
+**Completeness:** The answers provide sufficient detail and explanation for each question. However, it would be helpful to include more context or supporting information in A2 to clarify why both Mary and her mother made contributions to Mary's HSA. Additionally, some calculations in A3 could be simplified or presented in a clearer format.
+
+**Clarity:** The language used is generally clear and concise. Some sentences are long and could be broken up for easier reading (e.g., A1). The use of specific examples and step-by-step calculations in A3 helps to illustrate the concepts and makes the answer more understandable.
+
+To improve, consider providing more context or supporting information where necessary, and strive for even greater clarity by breaking up long sentences or using simpler language. Overall, these answers demonstrate a strong understanding of tax concepts related to HSAs!

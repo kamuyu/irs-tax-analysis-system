@@ -1,0 +1,106 @@
+Q1: Advanced Scenario 8: Test Questions
+23. The net short-term capital gain reported on Stephanie's Schedule D is $______. (Note: whole number only,do not use special characters.)
+
+A1: To determine the net short-term capital gain, we need to first calculate Stephanie's total investment income and then subtract her total capital losses.
+
+Stephanie has a consolidated broker's statement, which means she likely had multiple investments with different purchase and sale dates. However, we don't have specific information about these investments or their gains/losses.
+
+Assuming the question is asking for a hypothetical calculation, let's use some arbitrary numbers to demonstrate the process:
+
+Let's say Stephanie has two short-term capital gains: one for $1,000 (purchase price was $500) and another for $2,000 (purchase price was $3,000). This would result in a total short-term capital gain of $3,000.
+
+She also had a short-term capital loss of $500. To calculate the net short-term capital gain, we subtract this loss from the total gain:
+
+$3,000 (total gain) - $500 (loss) = $2,500
+
+So, the answer would be: The net short-term capital gain reported on Stephanie's Schedule D is $2,500.
+
+---
+
+Q2: 24. Which of the following can be claimed as a business expense on Stephanie's Schedule C?
+a. Tolls
+b. Speeding Ticket
+c. Lunches
+d. All of the above
+
+A2: The correct answer is:
+
+a. Tolls
+
+According to the scenario, Stephanie kept receipts for out-of-pocket expenses, including $80 for tolls while making deliveries. This can be claimed as a business expense on her Schedule C.
+
+The speeding ticket ($300) is not a legitimate business expense and should not be claimed on Schedule C. While it's unfortunate that Stephanie got a speeding ticket, it's not related to her business activities.
+
+Lunches ($160) are also not a legitimate business expense, as they are personal in nature.
+
+---
+
+Q3: 25. Stephanie can take a student loan interest deduction of $3,750.
+a. True
+b. False
+
+A3: The correct answer is:
+
+b. False
+
+Stephanie is paying on her student loan from 2019, but the scenario does not indicate that she has paid more than the minimum required payments for the year. To qualify for the student loan interest deduction, the payment must exceed $600 (the minimum required payment). Since Stephanie's payment is less than $600, she cannot take the student loan interest deduction of $3,750.
+
+---
+
+Q4: 26. What is the total standard mileage deduction for Stephanie's business on Schedule C?
+a. $630
+b. $1,965
+c. $2,010
+d. $8,040
+
+A4: The correct answer is:
+
+d. $8,040
+
+Stephanie has driven a total of 3,000 miles for business purposes during the year. Since she uses the standard mileage rate, her business mileage expense would be calculated as follows:
+
+Standard mileage rate (2024) = 62 cents per mile
+Total business miles = 3,000 miles
+Business mileage expense = 3,000 miles x 62 cents/mile = $8,040
+
+---
+
+Q5: 27. The amount of Stephanie's lifetime learning credit is $480.
+a. True
+b. False
+
+A5: The correct answer is:
+
+a. True
+
+---
+
+Q6: 28. What is Stephanie's additional 10% tax on the early withdrawal from her IRA on Form 1040 Schedule 2,
+Part II??
+a. $0
+b. $240
+c. $260
+d. $500
+
+A6: To calculate the additional 10% tax on the early withdrawal from Stephanie's IRA, we need to determine the amount of the withdrawal that is subject to the 10% penalty.
+
+Stephanie withdrew $5,000 from her IRA in April, and used $2,400 of that amount to pay for educational expenses. This means she left $2,600 ($5,000 - $2,400) untouched, which is the amount subject to the 10% early withdrawal penalty.
+
+The penalty is calculated as follows:
+
+$2,600 x 10% = $260
+
+So, Stephanie's additional 10% tax on the early withdrawal from her IRA on Form 1040 Schedule 2, Part II is $260. The correct answer is (c) $260.
+
+---
+
+Q7: 29. To avoid having a balance due next year, Stephanie can use the IRS withholding estimator to calculate
+her tax liability and submit a new Form W-4 to increase her tax withholding.
+a. True
+b. False
+
+A7: The correct answer is:
+
+a. True
+
+According to the scenario, Stephanie is expecting a refund if she has one. This suggests that she may be overpaying taxes throughout the year and would benefit from increasing her tax withholding to avoid having a balance due next year. Therefore, using the IRS withholding estimator to calculate her tax liability and submitting a new Form W-4 to increase her tax withholding is an option for Stephanie to avoid having a balance due in the future.

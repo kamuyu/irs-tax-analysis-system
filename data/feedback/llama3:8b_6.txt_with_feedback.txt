@@ -1,0 +1,40 @@
+ORIGINAL ANSWERS:
+Q1: Advanced Scenario 6: Test Questions
+13. David is eligible to claim the American Opportunity Credit on his 2024 tax return.
+a. True
+b. False
+
+A1: b. False
+
+According to the IRS, the American Opportunity Tax Credit (AOTC) can be claimed for qualified education expenses paid or incurred during the taxpayer's first four years of post-secondary education. Since David took management courses at a community college and was less than half-time student, he does not meet the requirements to claim the AOTC.
+
+Additionally, since David did not attend a degree-granting institution, he would not be eligible for the Lifetime Learning Credit (LLC) either.
+
+However, David may still be able to claim the education credits on Form 8863 if his courses qualify as "qualified education expenses" under the Higher Education Act of 1965.
+
+Q2: 14. For which of the following IRA distributions will David owe an additional tax of 10%?
+a. $2,000 for tuition
+b. $500 for emergency repairs
+c. Both a and b
+d. Neither a nor b
+
+A2: The correct answer is c. Both a and b.
+
+According to the IRS, if you take an early distribution from your IRA before age 59 1/2, you may be subject to a 10% additional tax. The exceptions include distributions taken for qualified education expenses (e.g., tuition) or unreimbursed medical expenses exceeding 10% of adjusted gross income.
+
+In this scenario:
+
+* $2,000 for tuition: This is a qualified education expense, and David would not owe an additional tax.
+* $500 for emergency repairs: This is not a qualified educational expense or medical expense, so David would be subject to the 10% additional tax on this distribution.
+
+Since both distributions are from his IRA, but only one (emergency repairs) meets the exception, the correct answer is c. Both a and b.
+
+
+FEEDBACK:
+**Accuracy:** A1: TRUE; A2: TRUE
+
+**Completeness:** Both answers provide sufficient information to support their conclusions.
+
+**Clarity:** Both answers are well-written and easy to follow. The explanations provided in A1 help readers understand the reasoning behind the conclusion, while A2 clearly outlines the relevant exceptions to the 10% additional tax rule.
+
+Overall, both answers demonstrate a strong understanding of the relevant tax rules and regulations, and provide clear and accurate guidance for taxpayers.

@@ -1,0 +1,52 @@
+ORIGINAL ANSWERS:
+Q1: Advanced Scenario 4: Test Questions
+9. For the purpose of determining dependency, Cary could be the qualifying child of _______________.
+a. Only Cheryl
+b. Only Cindy
+c. Either Cheryl or Cindy
+d. Neither Cheryl nor Cindy
+
+A1: The correct answer is c. Either Cheryl or Cindy.
+
+As a 5-year-old, Cary is considered a minor and must meet certain tests to be considered a qualifying child. The tests are:
+
+1. Age test: Cary must be under age 19 at the end of the year (or under age 24 if a full-time student for at least five months of the year).
+2. Relationship test: Cary must be Cheryl's or Cindy's child, stepchild, foster child, or descendant.
+3. Residency test: Cary must have lived with Cheryl or Cindy for more than six months of the year.
+4. Income test: Cary cannot have filed a joint return for the year.
+
+Since Cary meets all these tests, she is considered a qualifying child and can be claimed as a dependent by either Cheryl or Cindy.
+
+Q2: 10. Which of the following statements is true?
+a. Cindy is not eligible to claim Cary for the EIC because her filing status is married filing separate.
+b. Cindy is not eligible to claim the EIC for Cary because she is under age 25.
+c. Cindy is not eligible to claim Cary for the EIC because her income is too high.
+d. None of the above statements is true.
+
+A2: The correct answer is:
+
+d. None of the above statements is true.
+
+According to the scenario, Cindy and her daughter Cary have lived with Cindy's mother, Cheryl, since April 2023, which means they are qualifying relatives for purposes of claiming the Earned Income Tax Credit (EIC). Since Cary is under age 6, she is considered a qualifying child, and Cindy can claim her as such. Additionally, Cindy's filing status is not an issue because she has separated from her spouse.
+
+Cindy's income of $24,000 in wages does not disqualify her from claiming the EIC for Cary. Therefore, all three statements are incorrect, making option d) the correct answer.
+
+
+FEEDBACK:
+Feedback:
+
+**Q1:**
+
+* Accuracy: Excellent (The explanation accurately identifies the correct answer and provides a clear understanding of the qualifying child tests.)
+* Completeness: Good (The response covers all the necessary information, including the four tests for determining dependency.)
+* Clarity: Excellent (The language used is straightforward and easy to understand.)
+
+**Q2:**
+
+* Accuracy: Excellent (The explanation correctly identifies that none of the statements are true and provides a clear justification for each statement.)
+* Completeness: Good (The response addresses all three statements, ensuring that readers understand the correct reasoning.)
+* Clarity: Excellent (The language used is clear and concise, making it easy to follow the reasoning.)
+
+Overall Assessment:
+
+Both answers demonstrate excellent accuracy, completeness, and clarity. The responses provide thorough explanations and address all relevant information, making them strong examples of effective tax advice. Well done!

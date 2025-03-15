@@ -1,0 +1,274 @@
+ORIGINAL ANSWERS:
+Q1: Advanced Scenario 7: Test Questions
+15. What is the taxable portion of Faith's pension from Liberty Enterprises using the simplified method?
+a. $0
+b. $18,841.00
+c. $19,519.00
+d. $20,100.00
+
+A1: To determine the taxable portion of Faith's pension using the Simplified Method for a joint and survivor annuity, we need to follow these steps:
+
+1. **Determine the Excludable Amount:** 
+   - The excludable amount is calculated based on the cost of the plan, the taxpayer’s age at the start of the distribution period, and the number of expected remaining payments.
+
+2. **Calculate the Expected Return:**
+   - Find the total amount paid to Faith during 2024.
+   - Divide this by the number of expected remaining payments to get the expected annual return.
+
+3. **Determine Excludable Amount per Payment:**
+   - Use IRS tables for joint and survivor annuities that provide a percentage based on age at start of distribution and life expectancy.
+   - Multiply the expected annual return by this percentage to find the excludable amount per payment.
+
+4. **Calculate Total Excludable Amount for 2024:**
+   - Multiply the excludable amount per payment by the number of payments received in 2024.
+
+5. **Determine Taxable Portion:**
+   - Subtract the total excludable amount from the total pension received during 2024 to find the taxable portion.
+
+Given that Faith began receiving her pension on November 1, 2023, and considering she had already recovered $1,259 of the cost of the plan, we need more specific details about her age and expected remaining payments. However, based on typical scenarios:
+
+- Assume Faith is 65 years old at the start of the distribution period.
+- Assume an average life expectancy from IRS tables for a joint and survivor annuity.
+
+Without exact numbers, let's assume:
+- Total pension received in 2024: $20,100 (as per option d).
+- Excludable amount calculated using IRS tables is approximately $1,259 (already recovered) plus additional excludable amounts based on the simplified method.
+
+If we assume the calculations align with typical outcomes:
+
+- **Total Pension Received:** $20,100
+- **Excludable Amount for 2024:** Approximately $1,259 + additional amount from the simplified method.
+
+Assuming the simplified method allows an additional exclusion that matches the scenario, the taxable portion would be:
+
+**Taxable Portion = Total Pension - Excludable Amount**
+
+Given the options and typical calculations, the taxable portion is likely:
+
+b. **$18,841.00**
+
+This assumes the excludable amount calculated using the simplified method results in this taxable figure.
+
+Q2: 16. The Hunters are eligible to claim the credit for other dependents on their tax return.
+a. True
+b. False
+
+A2: To determine whether the Hunters can claim the credit for other dependents, we need to consider the eligibility requirements for this credit.
+
+The Credit for Other Dependents (also known as the Family Tax Credit) is available for dependents who do not qualify for the Child Tax Credit. This includes:
+
+1. **Age**: The dependent must be over 17 at the end of the tax year.
+2. **Relationship**: They can be a child, stepchild, foster child, sibling, or descendant of any of these, among other qualifying relationships.
+3. **Support and Residency**: The dependent must have lived with you for more than half the year and not provided more than half of their own support.
+4. **Citizenship**: The dependent must be a U.S. citizen, resident alien, national, or a qualified nonresident alien.
+5. **Social Security Number**: They must have a valid Social Security number by the due date of your tax return (including extensions).
+
+In this scenario:
+
+- Hope is in her second year of college and therefore over 17 at the end of the tax year.
+- She qualifies as a dependent under the relationship test since she is their daughter.
+- Assuming she meets the residency and support tests, which are typical for a full-time college student living with parents during school breaks or summer, she likely qualifies here too.
+- Hope has a valid Social Security number.
+- As per the information given, there’s no mention of her being ineligible due to other reasons such as filing a joint return (since she's not married and filing jointly).
+
+Given these points, the Hunters can claim the Credit for Other Dependents for their daughter, Hope.
+
+Therefore, the answer is:
+
+a. True
+
+Q3: 17. What is the total amount of other income reported on the Hunters' Form 1040 Schedule 1?
+a. $0
+b. $280
+c. $850
+d. $1,130
+
+A3: To determine the total amount of "other income" reported on the Hunters' Form 1040 Schedule 1, we need to identify items that are considered other than wages, salaries, and tips, which would be included in this section.
+
+From the scenario provided:
+
+1. **Jury Duty Income**: Faith received $280 from jury duty. This amount is considered "other income" because it doesn't come from employment as a regular salary or wages.
+
+2. **Canceled Debt (Form 1099-C)**: Vincent settled with his credit card company and received Form 1099-C for the canceled debt. However, since they determined that they were solvent as of the date of the cancellation, this amount is not considered taxable income under the insolvency exclusion. Therefore, it doesn't count towards "other income" on Schedule 1.
+
+Adding these amounts together gives us:
+
+- Jury Duty Income: $280
+
+Since there are no other items mentioned in the scenario that would contribute to "other income," the total amount of other income reported on Form 1040 Schedule 1 is $280.
+
+Thus, the correct answer is:
+b. $280
+
+Q4: 18. Vincent is eligible to deduct qualified educator expenses in the amount of $____________
+(Note: whole number only, do not use special characters.)
+19. What is the Hunters' standard deduction on their 2024 tax return?
+a. $21,900
+b. $23,450
+c. $29,200
+d. $30,750
+
+A4: To answer these questions, let's break down the relevant information:
+
+### Question 18: Qualified Educator Expenses Deduction for Vincent
+
+Vincent can deduct up to $300 of qualified educator expenses as an adjustment to income on his tax return. These expenses include unreimbursed classroom supplies and materials.
+
+- **Unreimbursed Classroom Expenses**: $844
+
+Since Vincent's expenses exceed the maximum deductible amount, he can only deduct $300.
+
+**Answer:** 18. Vincent is eligible to deduct qualified educator expenses in the amount of $300.
+
+### Question 19: Standard Deduction for Married Filing Jointly in 2024
+
+For the tax year 2024, the standard deduction amounts are as follows:
+
+- **Married Filing Jointly**: $29,200
+
+Given this information, the correct answer is:
+
+**Answer:** c. $29,200
+
+Q5: 20. Which of the following expenses qualify for the American Opportunity Credit?
+a. Required course related books and equipment
+b. Tuition
+c. Parking pass
+d. Both a and b
+
+A5: For the American Opportunity Credit, eligible expenses include:
+
+- **Tuition**: This is considered an eligible expense.
+- **Required course-related books and equipment**: These are also eligible as long as they must be purchased directly from the educational institution as a condition of enrollment or attendance.
+
+Parking passes do not qualify for the American Opportunity Credit. Therefore, the correct answer is:
+
+**d. Both a and b**
+
+This means that both required course-related books and equipment and tuition qualify for the credit.
+
+Q6: 21. The taxable amount of Faith's Social Security income as reported on their Form 1040 is:
+a. $ 0
+b. $19,413
+c. $20,314
+d. $23,899
+
+A6: To determine the taxable amount of Faith's Social Security income for inclusion on their Form 1040, we need to follow these steps:
+
+1. **Calculate Modified Adjusted Gross Income (MAGI):** This includes all gross income and certain deductions.
+
+2. **Include Relevant Income:**
+   - Since no specific amounts are provided for pension or other incomes in the scenario, you will use generic placeholders unless more information is given.
+   
+3. **Adjustments to Income:**
+   - Consider any adjustments that might affect MAGI calculation but don't directly modify taxable income.
+
+4. **Determine Base Amounts for Social Security Taxability:**
+   - For Married Filing Jointly in 2024:
+     - Up to 50% of benefits are taxable if the combined income is between $32,000 and $44,000.
+     - Up to 85% of benefits are taxable if the combined income exceeds $44,000.
+
+5. **Calculate Combined Income:**
+   - Combine AGI + Nontaxable Interest + ½ of Social Security Benefits = Combined Income
+
+6. **Estimate Social Security Taxability:**
+   - If the combined income is above $32,000 but below $44,000, up to 50% of Social Security benefits may be taxable.
+   - If it exceeds $44,000, up to 85% could be taxable.
+
+Given that we don’t have specific amounts for all sources of income except a few (like Faith's pension recovery and some other small incomes), let’s assume the combined income puts them in the bracket where up to 85% of Social Security benefits are taxable.
+
+7. **Determine Taxable Portion:**
+   - If the combined income indicates that 85% of Faith's social security is taxable, calculate that portion.
+
+For instance:
+- Suppose Faith's total annual Social Security benefit is $30,000.
+- Up to 85% could be taxable if their combined income exceeds the higher threshold: 0.85 * $30,000 = $25,500
+
+Given the answer choices and typical outcomes for such scenarios:
+
+- **$23,899** would likely be the correct choice as it represents a substantial portion of Social Security being taxable without exceeding what might be reasonable if their combined income is significantly above $44,000.
+
+Therefore, the taxable amount of Faith's Social Security income on their Form 1040 is most likely:
+
+d. $23,899
+
+Q7: 22. What is the Hunters' total federal income tax withholding?
+a. $4,400
+b. $5,210
+c. $5,590
+d. $7,600
+
+A7: To determine the Hunters' total federal income tax withholding for their 2024 tax return, we need to consider all sources of income and credits they are eligible for.
+
+1. **Vincent's Income**:
+   - As a public school teacher, Vincent likely receives wages from his employer. However, specific amounts aren't provided in the scenario, so we'll assume this information is available on their W-2 forms.
+
+2. **Faith's Pension**:
+   - Faith receives a pension as a joint and survivor annuity. The taxable portion of her pension income needs to be calculated using Form 1099-R. Since she recovered $1,259 of the cost of the plan, this amount reduces her pension income.
+   - The taxable amount is the total pension received minus the recovery of the cost.
+
+3. **Canceled Debt**:
+   - Vincent settled a credit card debt and received a Form 1099-C for canceled debt. Since they were solvent at the time of cancellation, the forgiven debt is considered taxable income.
+
+4. **Jury Duty Income**:
+   - Faith received $280 from jury duty, which is considered taxable income.
+
+5. **Scholarship and Education Credits**:
+   - Hope's scholarship covers tuition, so it isn't included in their taxable income.
+   - They paid $1,500 for books and equipment, which may be eligible for the American Opportunity Credit (AOC).
+   - The AOC can cover 100% of the first $2,000 and 25% of the next $2,000 of qualified education expenses per student. Since they claimed it last year, they might still be eligible this year.
+
+6. **Standard Deduction**:
+   - For a married couple filing jointly in 2024, they are likely eligible for a standard deduction unless they choose to itemize deductions.
+
+7. **Tax Withholding**:
+   - To find the total federal income tax withholding, we need to compare their total tax liability against any estimated tax payments or withholdings reported on their W-2 and 1099 forms.
+   - The scenario doesn't provide specific amounts for these withholdings, so we assume they have withheld taxes throughout the year.
+
+Given the multiple-choice options provided:
+
+a. $4,400  
+b. $5,210  
+c. $5,590  
+d. $7,600  
+
+Without specific figures from their W-2s and 1099s, we can make an educated guess based on typical income levels for a teacher and a pension recipient, along with the impact of credits like the AOC.
+
+Assuming moderate income levels and considering the potential reduction in tax liability due to the American Opportunity Credit, the most reasonable estimate for total federal income tax withholding would be:
+
+**b. $5,210**
+
+This choice accounts for typical withholdings and credits applicable to their situation.
+
+
+FEEDBACK:
+Let's go through each question step-by-step based on the information provided.
+
+### Question 22
+
+The task is to determine the Hunters' total federal income tax withholding for the year. Here’s how you can approach this:
+
+1. **Vincent’s Income**: As a public school teacher, Vincent likely has his taxes withheld from his paycheck. This will be reflected in his W-2 form.
+
+2. **Faith’s Pension**: Faith receives pension payments, and some portion of these may be taxable. The taxable amount is calculated by subtracting any recovery of the cost (here $1,259) from the total pension received. This information would typically be on a 1099-R form.
+
+3. **Canceled Debt**: Vincent's canceled debt is considered taxable income unless it qualifies for an exclusion. Since they were solvent, this adds to their taxable income and should be reflected in their tax documents.
+
+4. **Jury Duty Income**: Faith received $280 from jury duty, which is taxable and would be reported on a 1099-MISC or similar form if substantial enough.
+
+5. **Education Credits**: Hope’s education expenses might qualify for the American Opportunity Credit (AOC), which can reduce their tax liability. This credit applies to qualified education expenses, such as tuition and required books/equipment up to $4,000 per student annually.
+
+6. **Standard Deduction**: For 2024, married couples filing jointly are eligible for a standard deduction, which reduces taxable income unless they choose to itemize deductions.
+
+7. **Total Withholding**: This is the total amount withheld from their paychecks throughout the year for federal taxes. It includes withholdings reported on W-2 forms and any estimated tax payments made during the year.
+
+Given these considerations, let's evaluate the options:
+
+- **Option a: $4,400**
+- **Option b: $5,210**
+- **Option c: $5,590**
+- **Option d: $7,600**
+
+Without specific figures from their W-2 and 1099 forms, we can make an educated guess. Considering typical income levels for a teacher, pension recipient, and the impact of education credits like the AOC, which reduces tax liability, option b ($5,210) seems reasonable.
+
+**Conclusion**: The most plausible estimate for total federal income tax withholding, given the scenario and potential deductions/credits, is **b. $5,210**.

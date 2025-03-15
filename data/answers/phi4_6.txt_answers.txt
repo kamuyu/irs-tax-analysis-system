@@ -1,0 +1,45 @@
+Q1: Advanced Scenario 6: Test Questions
+13. David is eligible to claim the American Opportunity Credit on his 2024 tax return.
+a. True
+b. False
+
+A1: To determine whether David can claim the American Opportunity Credit (AOC) for the 2024 tax year, we need to review the eligibility criteria for this credit:
+
+1. **Student Status**: The student must be pursuing a degree or other recognized education credential and be enrolled at least half-time for one academic period during the tax year.
+
+2. **Time Limit**: The AOC can only be claimed for the first four years of post-secondary education.
+
+3. **Qualified Expenses**: These include tuition, fees required for enrollment or attendance, and course materials needed for a student’s courses.
+
+4. **Income Limits**: There are income limits that reduce the credit amount available to taxpayers with higher incomes.
+
+Based on the scenario provided:
+- David was enrolled in two management courses at a community college but was less than half-time. This disqualifies him from claiming the AOC because it requires at least half-time enrollment.
+  
+Therefore, the correct answer is:
+
+b. False
+
+---
+
+Q2: 14. For which of the following IRA distributions will David owe an additional tax of 10%?
+a. $2,000 for tuition
+b. $500 for emergency repairs
+c. Both a and b
+d. Neither a nor b
+
+A2: To determine whether David owes an additional tax of 10% on his IRA distributions, we need to consider the rules regarding early withdrawals from an Individual Retirement Account (IRA).
+
+Generally, if you take a distribution from your traditional or Roth IRA before age 59½, you may be subject to an additional 10% early withdrawal penalty. However, there are exceptions to this penalty.
+
+1. **$2,000 for tuition:** Under IRS rules, distributions from an IRA used to pay for qualified higher education expenses can avoid the 10% early withdrawal penalty. Qualified expenses include tuition, fees, books, supplies, and equipment required for enrollment or attendance at an eligible educational institution. Since David used $2,000 of his IRA distribution for tuition, this amount is exempt from the additional 10% tax.
+
+2. **$500 for emergency repairs:** Distributions taken for purposes other than qualified higher education expenses do not qualify for the penalty exemption. Therefore, the $500 that David withdrew for emergency repairs to his air conditioning system would be subject to the 10% early withdrawal penalty because it does not fall under any of the exceptions.
+
+Based on this analysis:
+
+- The $2,000 used for tuition is exempt from the additional tax.
+- The $500 used for emergency repairs incurs the additional 10% tax.
+
+Therefore, the correct answer is:
+b. $500 for emergency repairs

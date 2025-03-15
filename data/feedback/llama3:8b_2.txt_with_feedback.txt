@@ -1,0 +1,41 @@
+ORIGINAL ANSWERS:
+Q1: Advanced Scenario 2: Test Questions
+4. What is the maximum amount Jeff and Jane are eligible to claim for the Child Tax Credit (CTC)
+a. $6,000
+b. $4,000
+c. $3,000
+d. $2,000
+
+A1: The correct answer is c. $3,000.
+
+According to the IRS, the maximum amount of the Child Tax Credit (CTC) that Jeff and Jane are eligible to claim for their two children is $1,400 each ($3,000 total). This is because both Joan and Jim are under 17 years old, which meets the age requirement for the CTC. The credit amount is reduced by $50 for each child over 16 years old, but since neither of their children is over 16, they qualify for the full amount.
+
+Note that Jeff's income ($23,000) and Jane's income ($21,000) are not relevant to determining the maximum CTC amount, as it is based solely on the age and citizenship status of the children.
+
+Q2: 5. The Springs qualify for the Child and Dependent Care Credit
+a. True
+b. False
+
+A2: The correct answer is:
+
+a. True
+
+
+FEEDBACK:
+Here's my review of the answers:
+
+**Accuracy:** Excellent! The answers accurately reflect the relevant tax laws and regulations.
+
+**Completeness:** Good effort! While the explanations are clear, they could be more comprehensive. For example, in Q1, you might consider mentioning that the CTC is non-refundable (i.e., it cannot create a refund if the credit exceeds the taxpayer's liability).
+
+**Clarity:** Excellent! The language used is straightforward and easy to understand.
+
+Here's my feedback:
+
+Q1:
+Your answer is correct. However, I would suggest adding a sentence or two about the CTC being non-refundable to make the explanation more comprehensive. Additionally, you might consider explicitly stating that the credit is per child, as some readers may not catch that detail.
+
+Q2:
+Your answer is also correct! You provide a clear and concise explanation of the Child and Dependent Care Credit eligibility requirements. One minor suggestion: you could clarify what specific circumstances would disqualify The Springs from claiming this credit (e.g., if they're both over 13 or have no dependents to care for).
+
+Overall, your answers demonstrate a strong understanding of tax laws and regulations. Keep up the great work!

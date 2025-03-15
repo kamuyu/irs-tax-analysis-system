@@ -2,6 +2,9 @@
 #!/usr/bin/env python3
 # Metrics collection for IRS Tax Analysis System
 
+import warnings
+warnings.filterwarnings("ignore")
+
 import os
 import time
 import logging
@@ -307,6 +310,29 @@ class TestMetricsCollector(unittest.TestCase):
             self.assertEqual(data["data"]["model_name"], "test_model")
             self.assertEqual(data["data"]["prompt_tokens"], 100)
             self.assertEqual(data["data"]["completion_tokens"], 50)
+
+def load_model_metrics():
+    metrics_file = Path(__file__).parent.parent / "data" / "metrics" / "model_metrics.json"
+    if metrics_file.exists():
+        with open(metrics_file, "r", encoding="utf-8") as mf:
+            metrics = json.load(mf)
+        return metrics
+    else:
+        return {}
+
+def report_metrics():
+    metrics = load_model_metrics()
+    if not metrics:
+        print("No metrics data available.")
+        return
+    print("=== MODEL RUN STATISTICS ===")
+    for model, data in metrics.items():
+        print(f"Model: {model}")
+        print(f"  Processed Documents: {data.get('processed',0)}")
+        print(f"  Errors: {data.get('errors',0)}")
+        print(f"  Total Processing Time: {data.get('total_time',0):.2f} seconds")
+        print(f"  Average Time per Document: {data.get('average_time_per_doc',0):.2f} seconds")
+        print("")
 
 if __name__ == "__main__":
     # Simple demonstration

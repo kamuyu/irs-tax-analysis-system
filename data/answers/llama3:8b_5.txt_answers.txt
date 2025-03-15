@@ -1,0 +1,26 @@
+Q1: Advanced Scenario 5: Test Questions
+11. Elizabeth can claim the $1,500 homeowners association fees as a deduction on her Form 1040, Schedule A.
+a. True
+b. False
+
+A1: The correct answer is:
+
+b. False
+
+According to IRS Publication 530 (Taxpayer Guide to Prepaid Taxes and Credit Card Payments), "Homeowners association fees are not deductible as a personal expense on your tax return."
+
+---
+
+Q2: 12. What amount of gambling losses is Elizabeth eligible to claim as a deduction on her Form 1040, Schedule A?
+a. $0
+b. $1,000
+c. $2,000
+d. $4,000
+
+A2: According to the IRS rules, gambling losses can only be claimed as an itemized deduction on Schedule A up to the amount of gambling winnings reported. In Elizabeth's case, her gambling winnings are $2,000.
+
+So, Elizabeth is eligible to claim only $2,000 of her $4,000 gambling losses as a deduction on her Form 1040, Schedule A.
+
+Therefore, the correct answer is:
+
+c. $2,000

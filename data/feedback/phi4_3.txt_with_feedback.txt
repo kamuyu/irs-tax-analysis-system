@@ -1,0 +1,127 @@
+ORIGINAL ANSWERS:
+Q1: Advanced Scenario 3: Test Questions
+6. Mary is eligible to contribute an additional $__________ to her HSA because she is age 55 or older.
+a. $0
+b. $850
+c. $1,000
+d. $2,000
+
+A1: To determine how much more Mary can contribute to her Health Savings Account (HSA) for the year, we need to consider a few factors:
+
+1. **Contribution Limits**: For 2023, the HSA contribution limit is $3,850 for individuals with self-only coverage under a high deductible health plan (HDHP). People who are age 55 or older can make an additional catch-up contribution of $1,000.
+
+2. **Mary's Contributions**: 
+   - Mary contributed $2,000 herself.
+   - Her mother contributed $1,000.
+
+3. **Total Contributions Made**: The total contributions made to Mary’s HSA is $3,000 ($2,000 by Mary and $1,000 by her mother).
+
+4. **Eligible Contribution Including Catch-up**: Since Mary is 58 years old, she can make the additional catch-up contribution of $1,000 on top of the standard limit.
+
+5. **Total Eligible Contribution for Mary**:
+   - Standard Limit: $3,850
+   - Catch-Up Contribution (age 55 or older): $1,000
+
+   Total: $4,850
+
+6. **Additional Contribution Allowed**: Since $3,000 has already been contributed to the HSA ($2,000 by Mary and $1,000 by her mother), she can still contribute an additional:
+
+   \[ \$4,850 - \$3,000 = \$1,850 \]
+
+However, Mary herself cannot contribute more than the standard limit plus her catch-up amount. Since she has already contributed $2,000 to reach part of this limit, she can contribute an additional:
+
+\[ (\$3,850 + \$1,000) - \$2,000 = \$2,850 \]
+
+But considering the question specifically asks about her eligibility due to age (catch-up contribution), the additional amount attributable directly to being 55 or older is $1,000.
+
+Thus, Mary is eligible to contribute an additional **$1,000** because she is age 55 or older.
+
+The correct answer is:
+c. $1,000
+
+Q2: 7. Form 8889, Part I is used to report HSA contributions made by _______________.
+a. Mary
+b. Mary's employer
+c. Mary's mother
+d. All of the above
+
+A2: Form 8889, Part I is used to report Health Savings Account (HSA) contributions made by:
+
+- **Mary** (individual contributions)
+- **Mary's employer** (if any)
+- **Other individuals**, such as Mary’s mother, who can contribute to her HSA
+
+In this scenario:
+- Mary contributed $2,000.
+- Her mother contributed an additional $1,000.
+
+Therefore, the correct answer is:
+
+d. All of the above
+
+Q3: 8. What is the total unreimbursed qualified medical expenses reported on Form 8889, Part II?
+a. $3,860
+b. $3,620
+c. $3,580
+d. $3,320
+
+A3: To determine the total unreimbursed qualified medical expenses that Mary can report on Form 8889, Part II, we need to identify which of her expenses are considered "qualified medical expenses" for HSA purposes.
+
+Qualified medical expenses generally include payments for diagnosis, cure, mitigation, treatment, or prevention of disease and costs related to treatments affecting any part or function of the body. However, they do not typically include expenses that are cosmetic in nature or for general health items like gym memberships unless prescribed by a doctor.
+
+Let's evaluate each of Mary's expenses:
+
+1. **$500 for nine visits to a physical therapist after her knee surgery** - Qualified medical expense.
+2. **$1,000 unreimbursed doctor bills** - Qualified medical expense.
+3. **$280 prescription medicine** - Qualified medical expense.
+4. **$1,500 replacement of a crown** - Qualified dental expense (considered qualified if it is for treatment and not cosmetic).
+5. **$300 deep cleaning for teeth** - Qualified dental expense (typically qualifies as maintenance).
+6. **$40 over the counter medication** - Not qualified unless prescribed by a doctor.
+7. **$260 gym membership** - Not a qualified medical expense, unless prescribed by a doctor.
+
+Now we add up only the qualified expenses:
+
+- Physical therapy: $500
+- Doctor bills: $1,000
+- Prescription medicine: $280
+- Replacement of crown: $1,500
+- Deep cleaning for teeth: $300
+
+Total qualified medical expenses = $500 + $1,000 + $280 + $1,500 + $300 = $3,580
+
+Thus, the total unreimbursed qualified medical expenses reported on Form 8889, Part II is **$3,580**.
+
+The correct answer is:
+c. $3,580
+
+
+FEEDBACK:
+### Feedback on Answers:
+
+#### Q1 and A1:
+
+- **Accuracy**: The explanation accurately considers the standard HSA contribution limit for individuals in 2023 and includes the catch-up contribution due to Mary's age. It correctly calculates the total contributions already made and determines how much more can be contributed.
+  
+- **Completeness**: The answer thoroughly explains each step of determining the additional amount Mary can contribute due to her age, providing clarity on both the standard limit and the catch-up contribution.
+
+- **Clarity**: The response is clear and logically structured. It effectively guides the reader through the process of calculating allowable contributions and directly addresses the question about the catch-up contribution specifically attributable to being 55 or older.
+
+#### Q2 and A2:
+
+- **Accuracy**: The answer correctly identifies that Form 8889, Part I reports HSA contributions made by all parties contributing to an individual's account. This includes Mary herself, her employer (if applicable), and any other individuals like her mother.
+
+- **Completeness**: It accurately reflects the scenario provided and correctly concludes that "all of the above" are contributors whose amounts need to be reported on Form 8889, Part I.
+
+- **Clarity**: The response is concise and directly answers the question by explaining who can contribute to an HSA, making it easy for readers to understand why all options apply.
+
+#### Q3 and A3:
+
+- **Accuracy**: The answer correctly identifies which of Mary's expenses are qualified medical expenses eligible for HSA reimbursement. It excludes non-qualified items like over-the-counter medications not prescribed by a doctor and gym memberships unless prescribed.
+
+- **Completeness**: The breakdown of each expense category ensures that only the appropriate expenses are included in the total, providing a comprehensive evaluation of Mary’s situation.
+
+- **Clarity**: The explanation is clear, with each type of expense evaluated individually to explain why it qualifies or does not qualify. This methodical approach helps readers understand how to determine qualified medical expenses for HSA purposes.
+
+### Overall Feedback:
+
+The answers are accurate, complete, and clearly presented. Each response provides a thorough explanation that would help someone unfamiliar with the topic understand the relevant tax rules and calculations. The logical progression of steps in each answer aids clarity and reinforces understanding of complex topics like HSA contributions and qualified medical expenses.

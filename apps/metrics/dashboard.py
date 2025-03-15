@@ -2,6 +2,9 @@
 #!/usr/bin/env python3
 # Metrics Dashboard for IRS Tax Analysis System
 
+import warnings
+warnings.filterwarnings("ignore")
+
 import os
 import sys
 import logging

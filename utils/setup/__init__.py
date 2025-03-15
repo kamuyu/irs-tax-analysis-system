@@ -37,7 +37,7 @@ def create_virtualenv():
     """Create a Python virtual environment."""
     venv_dir = ROOT_DIR / "venv"
     
-    if venv_dir.exists():
+    if (venv_dir.exists()):
         logger.info("Virtual environment already exists")
         return True
     
@@ -132,7 +132,7 @@ def check_ollama():
 def pull_ollama_models(models=None):
     """Pull Ollama models."""
     if models is None:
-        models = ["llama3:8b", "phi4:medium"]
+        models = ["llama3:8b", "phi4", "mixtral:8x7b"]  # Added mixtral:8x7b to default models
     
     if not isinstance(models, list):
         models = [models]
@@ -162,6 +162,11 @@ def pull_ollama_models(models=None):
                                   capture_output=True, text=True)
             if result.returncode == 0:
                 logger.info(f"Successfully pulled model: {model}")
+                # Verify the model is saved in the correct directory
+                model_path = ROOT_DIR / "data" / "models" / model.replace(":", "_")
+                if not model_path.exists():
+                    logger.error(f"Model {model} was not saved in the expected directory: {model_path}")
+                    success = False
             else:
                 logger.error(f"Failed to pull model {model}: {result.stderr}")
                 success = False
@@ -245,7 +250,7 @@ def setup_environment(models=None, retry_ollama=False):
 
 if __name__ == "__main__":
     retry = "--retry" in sys.argv
-    models = ["llama3:8b", "phi4:medium"]  # Default models
+    models = ["llama3:8b", "phi4", "mixtral:8x7b"]  # Added mixtral:8x7b to default models
     
     # Check for specific model argument
     for arg in sys.argv[1:]:  # Skip first arg (script name)

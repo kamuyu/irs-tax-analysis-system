@@ -5,7 +5,7 @@
 The project is a solution to answer questions in text files in the ./docs folder using a hybrid approach combining RAG (Retrieval Augmented Generation) through chroma_db vector database in ./chroma_db folder and a lightweight knowledge graph. The answers should be from 3 models automatically selected from those implemented in Ollama:
 
 * `llama3:8b`: Good reasoning capability and fast (default)
-* `phi4:medium`: Good reasoning capability and fast
+* `phi4`: Good reasoning capability and fast
 * `mixtral:8x7b`: Great reasoning capability with medium speed
 * `yi:34b`: Excellent reasoning capability but slower
 
@@ -22,7 +22,7 @@ The system processes tax*related questions using these primary components:
 1. **Hybrid Retrieval System**: Combines vector search (RAG) with a knowledge graph for superior handling of relational data and tables
 2. **Automatic Model Selection**: Automatically selects 3 models at different performance tiers (good, great, excellent)
 3. **Bulk Processing**: Automatically processes all text files in the docs directory without requiring specific file input
-4. **Parallel Processing**: Uses CPU cores efficiently for document processing while optimizing GPU utilization
+4. **Sequential Processing**: Processes one model at a time to prevent memory issues and Docker crashes
 5. **Progressive Save**: Each answer is written as soon as it's completed, with naming convention [model_name]_[scenario_file]
 6. **Feedback Mechanism**: Models review their own answers and others' answers, generating a separate feedback file named [model_name]_[scenario_file]_with_feedback.txt
 
@@ -86,11 +86,11 @@ The system includes comprehensive metrics collection and visualization via:
    * Add help and documentation options
    * Create diagnostic and system information commands
 
-9. **Implement bulk processing with parallelization**
+9. **Implement sequential processing for stability**
    * Create `apps/bulk/__init__.py` for bulk processing capability
    * Implement automatic processing of all files in docs directory
    * Add progress tracking and reporting
-   * Optimize for multi*core processing while managing GPU memory
+   * Ensure one model processes at a time to prevent crashes
 
 10. **Create Streamlit web interface with real*time analysis**
     * Set up Streamlit interface in `apps/streamlit/`
@@ -131,4 +131,77 @@ The system includes comprehensive metrics collection and visualization via:
     * Optimize memory usage for different hardware configurations
     * Benchmark different models and configurations
     * Ensure all features work in Docker environment
-    * Validate metrics collection and visualization.
+    * Validate metrics collection and visualization
+
+## GitHub CLI Authentication and Pushing Changes
+
+### Authenticating with GitHub CLI
+
+1. **Install GitHub CLI** (if not already installed):
+
+   ```bash
+   gh **version
+   ```
+
+   If it's not installed, you can install it by following the instructions [here](https://cli.github.com/manual/installation).
+
+2. **Authenticate GitHub CLI**:
+
+   ```bash
+   gh auth login
+   ```
+
+   Follow the prompts to authenticate with your GitHub account
+   ? What account do you want to log into? GitHub.com
+   ? What is your preferred protocol for Git operations on this host? HTTPS
+   ? Authenticate Git with your GitHub credentials? Yes
+   ? How would you like to authenticate GitHub CLI? Login with a web browser
+
+   ! First copy your one*time code: C0D4*AEFB
+   Press Enter to open github.com in your browser...
+   ✓ Authentication complete.
+   * gh config set *h github.com git_protocol https
+   ✓ Configured git protocol
+   ! Authentication credentials saved in plain text
+   ✓ Logged in as kamuyu
+
+### Setting Up Global Git Configuration
+
+**Important: Set up your global git configuration to ensure your commits are properly attributed.**
+
+```bash
+git config **global user.email "fkamuyu@gmail.com"
+git config **global user.name "Francis Kamuyu"
+```
+
+### Pushing Changes to GitHub
+
+1. **Add the changes to the staging area**:
+
+   ```bash
+   git add .
+   ```
+
+2. **Commit the changes with a meaningful commit message**:
+
+   ```bash
+   git commit *m "Your commit message here"
+   ```
+
+3. **Push the changes to the remote repository**:
+
+   ```bash
+   git push
+   ```
+
+### Using the `commit_all.sh` Script
+
+You can also use the `commit_all.sh` script to commit and push changes with a single command. Here is how you can do it:
+
+1. **Run the `commit_all.sh` script with a commit message**:
+
+   ```bash
+   bash /root/IRS/scripts/commit_all.sh "Fixed bug in data processing script"
+   ```
+
+This script will add all changes, commit them with the provided message, and push them to the remote repository if it is configured.

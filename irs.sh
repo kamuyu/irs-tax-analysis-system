@@ -28,6 +28,7 @@ function show_help {
     echo "  setup, install         Set up environment and dependencies"
     echo "  clean, cleanup         Run memory cleanup"
     echo "  sysinfo                Show system information"
+    echo "  process                Process documents sequentially (prevents crashes)"
     echo "  diagnose [component]   Run diagnostics on specific components"
     echo "  help                   Show this help message"
     echo
@@ -35,6 +36,7 @@ function show_help {
     echo "  --input, -i FILE       Input file or directory"
     echo "  --output, -o FILE      Output file or directory"
     echo "  --model, -m MODEL      Specify model to use"
+    echo "  --models MODELS        Specify models for sequential processing"
     echo "  --quiet, -q            Reduce verbosity"
     echo "  --optimize, -O         Apply hardware optimization"
     echo "  --feedback, -f         Enable feedback generation (default: enabled)"
@@ -44,6 +46,7 @@ function show_help {
     echo "Examples:"
     echo "  $0 setup               Set up the environment"
     echo "  $0 bulk                Run bulk analysis on all documents"
+    echo "  $0 process             Process documents sequentially with all models"
     echo "  $0 web                 Start the Streamlit web interface"
     echo "  $0 diagnose ollama     Run diagnostics on Ollama"
 }
@@ -163,12 +166,37 @@ case "$COMMAND" in
     
     bulk)
         echo "Running bulk analysis on all documents in data/docs..."
-        python "$ROOT_DIR/apps/bulk/run.py" "$@"
+        activate_venv
+        
+        # Always use the default models (llama3:8b, phi4, mixtral:8x7b) for bulk processing.
+        echo "Processing with default models: llama3:8b, phi4, mixtral:8x7b."
+        python "$ROOT_DIR/core/rag.py" --process --models "llama3:8b" "phi4" "mixtral:8x7b" "$@"
         ;;
     
     web|streamlit)
         echo "Starting web interface..."
-        streamlit run "$ROOT_DIR/apps/streamlit/app.py" -- "$@"
+        activate_venv
+        
+        # Check if a specific model was provided
+        MODEL_ARG=""
+        for arg in "$@"; do
+            if [[ "$arg" == "--model" || "$arg" == "-m" ]]; then
+                MODEL_FLAG=true
+            elif [[ "$MODEL_FLAG" == true ]]; then
+                MODEL_ARG="--model $arg"
+                echo "Using specified model: $arg"
+                MODEL_FLAG=false
+                break
+            fi
+        done
+        
+        if [[ -z "$MODEL_ARG" ]]; then
+            # Pass the default models to streamlit
+            streamlit run "$ROOT_DIR/apps/streamlit/app.py" -- --default_models "llama3:8b" "phi4" "mixtral:8x7b" "$@"
+        else
+            # Pass the specified model to streamlit
+            streamlit run "$ROOT_DIR/apps/streamlit/app.py" -- "$@"
+        fi
         ;;
     
     metrics)
@@ -184,6 +212,32 @@ case "$COMMAND" in
     sysinfo)
         echo "Getting system information..."
         python -c "from utils.system import get_system_info, print_system_info; print_system_info()"
+        ;;
+    
+    process)
+        echo "Processing documents sequentially..."
+        activate_venv
+        # Extract models from arguments
+        MODELS=("llama3:8b")
+        for arg in "$@"; do
+            if [[ "$arg" == "--models" ]]; then
+                MODELS=()
+                MODEL_FLAG=true
+            elif [[ "$MODEL_FLAG" == true ]]; then
+                if [[ "$arg" == --* ]]; then
+                    MODEL_FLAG=false
+                else
+                    MODELS+=("$arg")
+                fi
+            fi
+        done
+        
+        # Pass models to rag.py
+        if [ ${#MODELS[@]} -gt 0 ]; then
+            python "$ROOT_DIR/core/rag.py" --process --models "${MODELS[@]}"
+        else
+            python "$ROOT_DIR/core/rag.py" --process
+        fi
         ;;
     
     help|--help|-h)
