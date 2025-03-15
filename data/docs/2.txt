@@ -1,0 +1,20 @@
+Advanced Scenario 2: Jeff and Jane Spring
+Interview Notes
+• Jeff and Jane are married and want to file a joint return.
+• Jeff is a U.S. citizen and has a valid Social Security number. Jane is a resident alien and has an ITIN. They resided in the United States all year with their children.
+• Jeff and Jane have two children, Joan, age 7, and Jim, age 15. Joan and Jim are U.S. citizens and have valid Social Security numbers.
+• Jeff earned $23,000 in wages.
+• Jane earned $21,000 in wages.
+• In order to work, the Springs paid $2,000 to their son, Jim, to care for Joan after school.
+• Jeff and Jane provided all of the support for their two children.
+
+Advanced Scenario 2: Test Questions
+4. What is the maximum amount Jeff and Jane are eligible to claim for the Child Tax Credit (CTC)
+a. $6,000
+b. $4,000
+c. $3,000
+d. $2,000
+
+5. The Springs qualify for the Child and Dependent Care Credit
+a. True
+b. False

@@ -1,0 +1,89 @@
+<!-- filepath: /root/IRS/config/docker-compose.yml -->
+version: '3.8'
+
+services:
+  irs-app:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    container_name: irs-app
+    volumes:
+      - ../data:/root/IRS/data
+      - ../logs:/root/IRS/logs
+    environment:
+      - OLLAMA_HOST=ollama
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "8501:8501"  # Streamlit port
+    depends_on:
+      - ollama
+      - prometheus
+    networks:
+      - irs-network
+    command: ["./irs.sh", "web"]
+    deploy:
+      resources:
+        limits:
+          memory: 32G
+        reservations:
+          memory: 8G
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    volumes:
+      - ../data/models:/root/.ollama
+    ports:
+      - "11434:11434"
+    networks:
+      - irs-network
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus-data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    ports:
+      - "9090:9090"
+    networks:
+      - irs-network
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./grafana/dashboards:/etc/grafana/provisioning/dashboards
+      - ./grafana/datasources:/etc/grafana/provisioning/datasources
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_INSTALL_PLUGINS=grafana-piechart-panel,grafana-worldmap-panel
+    ports:
+      - "3000:3000"
+    networks:
+      - irs-network
+    depends_on:
+      - prometheus
+
+networks:
+  irs-network:
+    driver: bridge
+
+volumes:
+  prometheus-data:
+  grafana-data:

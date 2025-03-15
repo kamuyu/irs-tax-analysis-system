@@ -1,0 +1,60 @@
+Advanced Scenario 8: Stephanie Winter
+Directions
+Using the tax software, complete the tax return, including Form 1040 and all appropriate forms, schedules, or worksheets. Answer the questions following the scenario.When entering Social Security numbers (SSNs) or Employer Identification Numbers (EINs), replace the Xs as directed, or with any four digits of your choice.
+Interview Notes
+• Stephanie is a paralegal, age 26, and single.
+• Stephanie has investment income and a consolidated broker’s statement.
+• Stephanie is self-employed delivering meals for Fast Eats on the weekends. She received a Form 1099-NEC and a Form 1099-K. She received additional cash payments of $570 including tips.
+• Stephanie uses the cash method of accounting. She uses business code 492000.
+• Stephanie provided a statement from Fast Eats indicating the fees paid for the year. These fees are considered ordinary and necessary for the food delivery business:
+o $150 for insulated box rental
+o $50 for vehicle safety inspection (required by Fast Eats)
+o $600 for Fast Eats fees
+• Stephanie also kept receipts for the following out-of-pocket expenses:
+o $80 for tolls while making deliveries
+o $300 for speeding ticket
+o $160 for Stephanie's lunches
+• Stephanie’s record keeping application shows she has driven a total of 3,000 miles during and between deliveries.
+o She placed her only vehicle, an SUV, in service on 3/15/2020. The total mileage on her SUV for tax year 2024 was 12,500 miles. Of that, 9,500 miles were personal and commuting miles. Stephanie will take the standard business mileage rate.
+• Stephanie is paying on her student loan from 2019, when she completed her undergraduate degree.
+• Stephanie is working towards her Juris Doctorate degree to start a new career as a lawyer.
+• She took a few college courses this year at an accredited college.
+• Stephanie took an early distribution of $5,000 from her IRA in April. She used $2,400 of the IRA distribution to pay her educational expenses for the current year. She has never made any non-deductible contributions to her IRA.
+• If Stephanie has a refund, she would like it deposited into her checking account.
+Directions
+Using the tax software, complete the tax return, including Form 1040 and all appropriate forms, schedules, or worksheets. Answer the questions following the scenario. When entering Social Security numbers (SSNs) or Employer Identification Numbers (EINs), replace the Xs as directed, or with any four digits of your choice.
+
+Advanced Scenario 8: Test Questions
+23. The net short-term capital gain reported on Stephanie's Schedule D is $______. (Note: whole number only,do not use special characters.)
+
+24. Which of the following can be claimed as a business expense on Stephanie's Schedule C?
+a. Tolls
+b. Speeding Ticket
+c. Lunches
+d. All of the above
+
+25. Stephanie can take a student loan interest deduction of $3,750.
+a. True
+b. False
+
+26. What is the total standard mileage deduction for Stephanie's business on Schedule C?
+a. $630
+b. $1,965
+c. $2,010
+d. $8,040
+
+27. The amount of Stephanie's lifetime learning credit is $480.
+a. True
+b. False
+
+28. What is Stephanie's additional 10% tax on the early withdrawal from her IRA on Form 1040 Schedule 2,
+Part II??
+a. $0
+b. $240
+c. $260
+d. $500
+
+29. To avoid having a balance due next year, Stephanie can use the IRS withholding estimator to calculate
+her tax liability and submit a new Form W-4 to increase her tax withholding.
+a. True
+b. False

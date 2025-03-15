@@ -1,0 +1,45 @@
+#<!-- filepath: /root/IRS/requirements.txt -->
+# Core dependencies
+langchain>=0.1.0
+chromadb>=0.4.22
+pydantic>=2.5.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.66.0
+tabula-py>=2.9.0
+PyPDF2>=3.0.0
+
+# Embeddings and ML
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.36.0
+scikit-learn>=1.3.2
+faiss-cpu>=1.7.4
+
+# API and Model Interface
+requests>=2.31.0
+httpx>=0.25.0
+
+# Web UI
+streamlit>=1.29.0
+streamlit-chat>=0.1.1
+
+# CLI and utils
+typer>=0.9.0
+rich>=13.6.0
+psutil>=5.9.0
+
+# Visualization and metrics
+matplotlib>=3.7.0
+seaborn>=0.13.0
+prometheus-client>=0.17.0
+graphviz>=0.20.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Knowledge Graph (for hybrid approach)
+networkx>=3.1.0
+rdflib>=7.0.0
+spacy>=3.7.0

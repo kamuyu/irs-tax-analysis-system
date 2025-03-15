@@ -1,0 +1,39 @@
+Advanced Scenario 9: Joe Lopez
+Directions
+Using the tax software, complete the tax return, including Form 1040 and all appropriate forms, schedules, or worksheets. Answer the questions following the scenario. When entering Social Security numbers (SSNs) or Employer Identification Numbers (EINs), replace the Xs as directed, or with any four digits of your choice.
+Interview Notes
+• Joe is age 41 and was widowed in July, 2023. He has a daughter, Josie, age 9, who lived with him the entire year.
+• Joe provided the entire cost of maintaining the household and over half of the support for Josie. In order to work, he pays childcare expenses to Southside Daycare.
+• Joe purchased health insurance for himself and his daughter through the Marketplace. He received a Form 1095-A.
+• Joe and Josie are U.S. citizens and lived in the United States all year in 2024.
+Directions
+Using the tax software, complete the tax return, including Form 1040 and all appropriate forms, schedules, or worksheets. Answer the questions following the scenario. When entering Social Security numbers (SSNs) or Employer Identification Numbers (EINs), replace the Xs as directed, or with any four digits of your choice.
+
+Advanced Scenario 9: Test Questions
+30. What is Joe's most advantageous filing status?
+a. Single
+b. Married Filing Separately
+c. Head of Household
+d. Qualifying Surviving Spouse (QSS)
+
+31. Joe adjusted gross income on his Form 1040 is _______.
+a. $12,912
+b. $42,000
+c. $42,112
+d. $42,140
+
+32. Joe is eligible to claim the Child Tax Credit.
+a. True
+b. False
+
+33. Joe's retirement savings contributions credit is____.
+a. $0
+b. $100
+c. $150
+d. $1,500
+
+34. The total amount of Joe's net premium tax credit on Form 1040 Schedule 3, line 9 is $696.
+a. True
+b. False
+
+35. Joe's child and dependent care credit from Form 2441 is _____. (Note: whole number only, do not use special characters.)

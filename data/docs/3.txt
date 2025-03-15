@@ -1,0 +1,34 @@
+Advanced Scenario 3: Mary Wood
+Interview Notes
+• Mary Wood, age 58, is single.
+• Mary earned wages of $51,000 and was enrolled the entire year in a high deductible health plan (HDHP) with self-only coverage.
+• During the year, Mary contributed $2,000 to her Health Savings Account (HSA) and her mother also contributed $1,000 to Mary's HSA.
+• Mary's Form W-2 shows $1,150 in Box 12 with code W. She has Form 5498-SA showing $4,150 in Box 2.
+• Mary has Form 1099-SA showing her HSA distributions. She used her distributions to pay the following unreimbursed expenses:
+o $500 for nine visits to a physical therapist after her knee surgery
+o $1,000 unreimbursed doctor bills
+o $280 prescription medicine
+o $1,500 replacement of a crown
+o $300 deep cleaning for teeth
+o $40 over the counter medication
+o $260 gym membership (for her general health and fitness)
+• Mary is a U.S. citizen with a valid Social Security number.
+
+Advanced Scenario 3: Test Questions
+6. Mary is eligible to contribute an additional $__________ to her HSA because she is age 55 or older.
+a. $0
+b. $850
+c. $1,000
+d. $2,000
+
+7. Form 8889, Part I is used to report HSA contributions made by _______________.
+a. Mary
+b. Mary's employer
+c. Mary's mother
+d. All of the above
+
+8. What is the total unreimbursed qualified medical expenses reported on Form 8889, Part II?
+a. $3,860
+b. $3,620
+c. $3,580
+d. $3,320
